@@ -24,5 +24,3 @@ Ex.: git@github.com:glesiosantos/agencia.git
 
 ## Subir o projeto para o GitHub
  git push -u origin main (ou a branch atual)
-
- ##
